@@ -1,0 +1,1 @@
+{"name":"fxlens","version":"3.0.7","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"latest","react":"latest","react-dom":"latest","@google/genai":"latest"}}
